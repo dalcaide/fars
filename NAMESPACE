@@ -1,0 +1,11 @@
+
+export("fars_read")
+export("make_filename")
+export("fars_read_years")
+export("fars_summarize_years")
+export("fars_map_state")
+
+import(dplyr)
+import(tidyr)
+import(maps)
+import(graphics)
